@@ -1,2 +1,3 @@
 other changes
 string1
+string2
